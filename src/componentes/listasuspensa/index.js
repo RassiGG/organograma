@@ -1,7 +1,7 @@
 import './listasuspensa.css';
-const listasuspensa = (props) => {
+const Listasuspensa = (props) => {
     return(
-        <div>
+        <div className='lista-suspensa'>
             <label>{props.label}</label>
             <select>
                 {props.itens.map((item, index) => {
@@ -12,7 +12,7 @@ const listasuspensa = (props) => {
     )
  }
 
- export default listasuspensa;
+ export default Listasuspensa;
 
 
  
