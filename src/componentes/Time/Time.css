@@ -1,15 +1,18 @@
 .time{
     text-align: center;
-    padding: 32px;
-    background-color: #d9f7e9;
+    padding: 32px  ;
+    background-color: rgb(255, 255, 255);
+   
 
 }
 
 .time h3{
     font-size: 32px;
-    border-bottom: 4px solid #57c278;
+    border-bottom: 4px solid rgb(26, 98, 253);
     display: inline-block;
     padding-bottom: 8px;
 
     
 }
+
+
