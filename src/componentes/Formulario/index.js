@@ -1,1 +1,1 @@
-export { default } from './formulario';
+export { default } from './formulario.js';
